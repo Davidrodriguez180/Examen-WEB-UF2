@@ -1,0 +1,24 @@
+
+
+	<p> Aquest es el nou joc APEX, es un nou battle royale en el qual cauran 100 persones en una illa i amb el armament que trobis 
+	en les cases lluiteras contre altra gent <p>
+	
+	<body>
+
+	<img src="IMG/APEX.jpg" alt="APEX.jpg" width="400" height="240">
+
+	<p> El joc sera en primera persona <p>
+
+	<audio src="MP3/APEX2.mp3" controls autoplay> </audio>
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/1R559DWBYbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<body>
+
+	<p> Més informacio el pròxim 15/12/2021!!!! <p>
+
+	<p> youtube:apexlegends <p>
+	<p> instagram:@apexlegensofficial <p>
+	<p> facebook:@apexlegensofficial <p>
+
+	<p> Creador: David Rodriguez
